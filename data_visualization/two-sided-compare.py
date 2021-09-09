@@ -76,7 +76,6 @@ for i in range(len(x_pos_2)):
 ax3_y_min = 0.82
 ax3_y_max = 1.0
 ax3.set_ylim((ax3_y_min, ax3_y_max))
-ax3.set_yticks([])
 ax3.set_yticks([], minor=True)
 
 # legend setting
